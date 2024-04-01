@@ -17,4 +17,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramon-braga&show_icons=true&locale=en&layout=compact" alt="ramon-braga" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramon-braga&" alt="ramon-braga" /></p>
+
