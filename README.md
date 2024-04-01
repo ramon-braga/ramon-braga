@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **ramonvbraga@gmail.com**
-
-- 📄 Know about my experiences: My initial steps in the world of technology were as a teaching assistant in the Logic Programming course in the Electrical Engineering program at UFCG. I have worked with languages such as JavaScript, C, and C++.
-
+  
 - 📄 Current Focus **Currently, I am channeling my efforts into web development. I am dedicated to enhancing my skills in this area, with a special focus on learning and mastering React.**
 
 <h3 align="left">Connect with me:</h3>
