@@ -1,6 +1,5 @@
-###  <h1><span style="color:1466c3"></></span> I'm Ramon Braga_ </h1>
+###  <h1><span style="color:1466c3"></></span> Welcome to my repository_ </h1>
 
-#### Welcome to my repository! 
 My name is Ramon Braga, and I'm a Brazilian computer science bachelor's student. Currently, I'm diving deep into Python for backend development, while also exploring frontend technologies through projects.
 
 I enjoy being part of coding communities like bootcamps and taking on projects and challenges. Feel free to reach out to me anytime! 
