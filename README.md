@@ -1,17 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ramon Braga</h1>
-<h3 align="center">I am Brazilian, and my passion for programming began around 2015. I have a strong enthusiasm for working in teams and turning ideas into code!</h3>
+###  <h1><span style="color:1466c3"></></span> I'm Ramon Braga_ </h1>
 
-- 🌱 I’m currently learning **React**
+#### Welcome to my repository! 
+My name is Ramon Braga, and I'm a Brazilian computer science bachelor's student. Currently, I'm diving deep into Python for backend development, while also exploring frontend technologies through projects.
 
-- 📫 How to reach me **ramonvbraga@gmail.com**
-  
-- 📄 Current Focus **Currently, I am channeling my efforts into web development. I am dedicated to enhancing my skills in this area, with a special focus on learning and mastering React.**
+I enjoy being part of coding communities like bootcamps and taking on projects and challenges. Feel free to reach out to me anytime! 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/r_braga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r_braga" height="30" width="40" /></a>
-</p>
+## <span style="color:1466c3"></></span> Skills_ 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramon-braga&show_icons=true&locale=en&layout=compact" alt="ramon-braga" /></p>
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+## <span style="color:1466c3"></></span> Tools_ 
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=orange) ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=1466c3)
 
+### <span style="color:1466c3"></></span> Contact me_
+< Feel free to get in touch with me. /> 
+
+[![DIO](https://img.shields.io/badge/DIO-1466c3?style=for-the-badge&logo)](https://www.dio.me/users/ramonbraga002)
+[![lINKEDIN](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-v-braga/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=fff)](mailto:ramonvbraga@gmail.com) [![DISCORD](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/@r_braga/) 
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=000&title_color=1466c3&text_color=FFF)
