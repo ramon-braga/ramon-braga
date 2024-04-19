@@ -18,4 +18,4 @@ I enjoy being part of coding communities like bootcamps and taking on projects a
 [![DIO](https://img.shields.io/badge/DIO-1466c3?style=for-the-badge&logo)](https://www.dio.me/users/ramonbraga002)
 [![lINKEDIN](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-v-braga/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=fff)](mailto:ramonvbraga@gmail.com) [![DISCORD](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/channels/@r_braga/) 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=000&title_color=1466c3&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ramon-braga&layout=compact&bg_color=000&border_color=000&title_color=1466c3&text_color=FFF)
