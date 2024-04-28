@@ -4,12 +4,20 @@ My name is Ramon Braga, and I'm a Brazilian computer science bachelor's student.
 
 I enjoy being part of coding communities like bootcamps and taking on projects and challenges. Feel free to reach out to me anytime! 
 
-## <span style="color:1466c3"></></span> Skills_ 
+### <span style="color:1466c3"></></span> Skills_ 
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB) ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=orange) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow) ![Typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript&logoColor=yellow) ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## <span style="color:1466c3"></></span> Tools_ 
+
+### <span style="color:1466c3"></></span> Libraries and Frameworks_
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwindcss](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=Tailwindcss&logoColor=61DAFB)
+
+### <span style="color:1466c3"></></span> Databases_
+
+![MySql](https://img.shields.io/badge/MySql-000?style=for-the-badge&logo=MySql&logoColor=ffffff)
+![MariaDB](https://img.shields.io/badge/MariaDB-000?style=for-the-badge&logo=MariaDB&logoColor=ffffff)
+
+### <span style="color:1466c3"></></span> Tools_ 
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=orange) ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=1466c3)
 
 ### <span style="color:1466c3"></></span> Contact me_
